@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woniderhaf/chat/static/css/main.22d2cd3d.css",
+    "main.js": "/woniderhaf/chat/static/js/main.47f194c6.js",
+    "index.html": "/woniderhaf/chat/index.html",
+    "main.22d2cd3d.css.map": "/woniderhaf/chat/static/css/main.22d2cd3d.css.map",
+    "main.47f194c6.js.map": "/woniderhaf/chat/static/js/main.47f194c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d2cd3d.css",
+    "static/js/main.47f194c6.js"
+  ]
+}
